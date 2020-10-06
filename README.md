@@ -226,3 +226,83 @@ left: 0;
 
 </body>
 </html>
+<html>
+<head>
+<title>Мифы Древней Греции</title>
+<style> 
+q {
+font-family: Times, serif; 
+font-style: italic; 
+font-size:19;
+color: #002137;}
+span {
+color:#000000;
+font-size: 25;
+font-face: sans-serif;}
+cite {
+font-family: Times, serif; 
+color: #002137;
+font-size: 19;
+font-face: sans-serif;}
+a { 
+color: #000000;
+font-family: Times, serif; 
+font-style: italic; 
+font-size:25;} 
+ul{
+font-family: Times, serif; 
+font-style: italic; 
+font-size:25;
+color: #000000;
+font-weight: 800;
+text-align: left;
+}
+p{
+font-size:25;
+font-weight: 700;
+text-indent: 20px;
+font-family: Times, serif; 
+font-style: italic; }
+
+	</style>
+</head>
+ <body background= image/1.jpg>
+ <font face = sans-serif </font>
+ <h1 align=center > <i>Мифы Древней Греции</i></h1>
+ <hr size=2 width=60% color=#ffffff>
+  <div style="float: right"> <a href="mif.html" rel="nofollow">Вернуться на главную</a></div>
+ <p> <font size="30" color="red" face="Comic Sans MS">М</font>ифология Древней Греции строится на восприятии мира как жизни одной огромной родовой общины, 
+ и в мифах древние греки обобщали всё многообразие человеческих отношений и природных явлений. 
+ Греческая мифология складывалась в течение нескольких веков, передаваясь из поколения в поколение. 
+ До нас мифы дошли в поэзии Гомера и Гесиода, а также в произведениях драматургов Древней Греции - Софокла, Эсхила, Еврипида и др.
+ В Олимпийском пантеоне господствовал Зевс – верховное божество, дававшее людям закон и порядок. 
+ Кроме него существовали персонифицированные божества, отвечавшие за конкретную сферу жизни.</p>
+ <h1 align=center > <i>Олимпийцы</i></h1>
+ <p>Традиционно в число олимпийских входило двенадцать богов. Списки олимпийцев не всегда совпадают.
+ В число олимпийцев входили дети Кроноса и Реи:</p>
+ <ul type="square">
+<li><a href="zevs.html" rel="nofollow">Зевс</a> — верховный бог древнегреческого пантеона, бог неба, грома и молний.</li>
+<li><a href="gera.html" rel="nofollow">Гера</a> — жена Зевса, покровительница брака.</li>
+<li><a href="poseidon.html" rel="nofollow">Посейдон</a> — бог морской стихии.</li>
+<li><a href="aid.html" rel="nofollow">Аид</a> — владыка царства мёртвых.</li>
+<li><a href="demetra.html" rel="nofollow">Деметра</a> — богиня плодородия и земледелия.</li>
+<li><a href="gestia.html" rel="nofollow">Гестия</a> — богиня домашнего очага.</li>
+</ul>
+<p>А также их потомки:</p>
+<ul type="square">
+<li><a href="afina.html" rel="nofollow">Афина</a> — богиня мудрости, войны, справедливости и ремёсел.</li>
+<li><a href="ares.html" rel="nofollow">Арес</a> — бог войны и кровопролития.</li>
+<li><a href="afrodita.html" rel="nofollow">Афродита</a> — богиня любви и красоты.</li>
+<li><a href="gefest.html" rel="nofollow">Гефест</a> — бог огня и кузнечного ремесла.</li>
+<li><a href="germes.html" rel="nofollow">Гермес</a> — бог торговли, хитрости, скорости и воровства.</li>
+<li><a href="apollon.html" rel="nofollow">Аполлон</a> — бог света, покровитель искусств. Также бог-врачеватель и покровитель оракулов.</li>
+<li><a href="artemida.html" rel="nofollow">Артемида</a> — богиня охоты, покровительница всего живого на Земле.</li>
+<li><a href="deonis.html" rel="nofollow">Дионис</a> — бог виноделия, веселья и пьянства.</li>
+<p>Также в мифологии Древней Греции содержатся <a href="polubogi.html" rel="nofollow">мифы о поколении людей</a></p>
+ <div style="float: right"><a href="#">Наверх</a></div>
+
+ </body>
+  </html>
+
+
+
